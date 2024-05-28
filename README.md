@@ -9,5 +9,5 @@ This application was used to mathematically fit functions related to transient d
 
 ### Video Demonstration
 
-![Watch the video](https://img.youtube.com/vi/your-video-id/maxresdefault.jpg)](./Demonstration%20files/help video.mp4)
+![Watch the video](https://img.youtube.com/vi/your-video-id/maxresdefault.jpg)(./Demonstration%20files/help video.mp4)
 
